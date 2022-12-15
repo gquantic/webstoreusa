@@ -1,0 +1,16 @@
+{
+    "name": "murad/htdocs",
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "libs/",
+            "Engine\\": "engine/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Murad Gapurovich",
+            "email": "darkkukri0550@gmail.com"
+        }
+    ],
+    "require": {}
+}
